@@ -46,3 +46,45 @@
 .fa-cart-plus, .fa-circle-question, .fa-user{
   color: #fc6603;
 }
+.background{
+  background-color:#cfceca;
+}
+.subheading1 {
+  width: 100%;
+
+  padding-top: 50px;
+  display: flex;
+  flex-direction: row;
+  text-align: left;}
+.section1 {
+  width: 50%;
+  margin-left: 10%;
+}
+#header-text {
+  color: black;
+  font-size: 45px;
+  letter-spacing: 2px;
+  font-weight: bolder;}
+  #subheader-text{
+    color: green;
+    font-style: "handwritten";
+    font-weight: bolder;
+    font-size: x-large;
+    
+  }
+
+.section1{
+  text-align: left;
+  margin-top: 40px;
+  font-style: oblique;
+  font-size: large;
+}
+.section2 {
+  width: 50%;
+  margin-left: -1%;
+
+}
+.subeading1{
+  display: flex;
+  flex-direction: row;
+}
