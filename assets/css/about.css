@@ -45,7 +45,8 @@ body{
     display: inline;
     margin-left: 70px;
     margin-top: 40px;
-    font-size: 20px;
+    font-size: 25px;
+    font-weight: 600;
 }
 a{
     text-decoration: none;
@@ -59,18 +60,19 @@ a{
 #light{
     font-weight: 500;
     margin-left: 10px;
+    font-size: 40px;
 }
 .fa-greater-than{
     color: #fc6603;
     margin-left: 15px;
 }
 .text{
-    font-size: 18px;
+    font-size: 25px;
     margin-left: 70px;
     margin-top: 0;
 }
 #bold{
-    font-size: 50px;
+    font-size: 70px;
 }
 .story{
     margin-top: 80px;
