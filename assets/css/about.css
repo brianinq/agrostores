@@ -1,0 +1,67 @@
+body{
+    margin: auto;
+    background-color: #f8f8f8;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.phrase1{
+    font-family: 'Finger Paint', cursive;
+    font-size: 100px;
+    text-align: center;
+}
+.about{
+    background-image: url("../images/About_backgroundimage.jpg");
+    background-size: contain;
+    /*background-color: aqua;*/
+    height: 770px;
+    width: 100%;
+    position: relative;
+}
+.company{
+    position: absolute;
+    background: rgba(0, 0, 0, 0.4);
+    color: #fff;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* margin-top: 70px; */
+    padding-top: 70px;
+}
+.primary{
+    color: #fc6603;
+}
+.btns{
+    display: inline;
+    margin-left: 70px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 10px;
+}
+.header{
+    margin-left: 70px;
+    font-size: 35px;
+}
+#light{
+    font-weight: 200;
+    margin-left: 60px;
+}
+.fa-solid{
+    color: #fc6603;
+    margin-left: 15px;
+}
+.text{
+    font-size: 18px;
+    margin-left: 70px;
+    margin-top: 0;
+}
+#bold{
+    font-size: 50px;
+}
