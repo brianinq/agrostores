@@ -262,6 +262,72 @@
   font-size: 17px;
   text-align: center;
 }
+.products-category2{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin-left: 10%;}
+.Grapes{
+  width: 20%;
+  margin-right: 2rem;
+  background-color: #fafafa;
+  font-size: 17px;
+  text-align: center;
+}
+.redonions {
+  width: 20%;
+  margin-right: 2rem;
+  background-color: #fafafa;
+  font-size: 17px;
+  text-align: center;
+}
+.lemon {
+  width: 20%;
+  margin-right: 2rem;
+
+  background-color: #fafafa;
+  font-size: 17px;
+  text-align: center;
+}
+.Apples {
+  width: 20%;
+  background-color: #fafafa;
+  font-size: 17px;
+  text-align: center;
+}
+.products-category3{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin-left: 10%;}
+  .flowers{
+    width: 20%;
+    margin-right: 2rem;
+    background-color: #fafafa;
+    font-size: 17px;
+    text-align: center;
+  }
+  .maize{
+    width: 20%;
+    margin-right: 2rem;
+    background-color: #fafafa;
+    font-size: 17px;
+    text-align: center;
+  }
+  .carrots {
+    width: 20%;
+    margin-right: 2rem;
+  
+    background-color: #fafafa;
+    font-size: 17px;
+    text-align: center;
+  }
+  .cabbage {
+    width: 20%;
+    background-color: #fafafa;
+    font-size: 17px;
+    text-align: center;
+  }
 .border {
   padding: 20px;
   background-color: grey;
