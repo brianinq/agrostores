@@ -192,6 +192,7 @@
   display: flex;
   flex-direction: row;
   margin-left: 10%;
+  justify-content: space-around;
 }
 .product-subtext {
   text-align: center;
@@ -203,7 +204,7 @@
 .product-text {
   text-align: center;
   font-size: 15px;
-  width: 80%;
+  width: 100%;
   color: black;
 }
 .product-subheading {
@@ -266,7 +267,9 @@
   width: 100%;
   display: flex;
   flex-direction: row;
-  margin-left: 10%;}
+  margin-left: 10%;
+justify-content: space-around;}
+  
 .Grapes{
   width: 20%;
   margin-right: 2rem;
@@ -299,7 +302,8 @@
   width: 100%;
   display: flex;
   flex-direction: row;
-  margin-left: 10%;}
+  margin-left: 10%;
+justify-content: space-around;}
   .flowers{
     width: 20%;
     margin-right: 2rem;
@@ -332,3 +336,63 @@
   padding: 20px;
   background-color: grey;
 }
+/* FOOTER SECTION START*/
+.footer {
+  width: 100%;
+  flex-direction: row;
+  display: flex;
+  margin-right: 3rem;
+  background-color: black;
+  margin-top: 1rem;
+  color: white;
+}
+.footerBox {
+  margin-left: 10%;
+  width: 20%;
+  margin-left: 5%;
+}
+.footer-social li {
+  float: left;
+}
+.fa li {
+  padding: 25px;
+  text-align: center;
+  text-decoration: none;
+  margin-right: 15px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* .fa-facebook-square {
+  margin: 10px;
+  color: white;
+  font-size: 20px;
+  background: #ed661f;
+}
+
+.fa-twitter {
+  margin: 10px;
+  background: #ed661f;
+  color: white;
+  font-size: 20px;
+}
+
+
+.fa-instagram-square {
+  margin: 10px;
+  background: #ed661f;
+  color: white;
+  font-size: 20px;
+} */
+.fa-brands{
+  color: #fc6603;
+  font-size: 40px;
+  margin: 10px;
+}
+.rights{
+  margin-bottom: 40px;
+}
+/* FOOTER SECTION END*/
