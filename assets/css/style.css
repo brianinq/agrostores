@@ -200,6 +200,9 @@ btn:hover, button:hover{
 .blogs{
     display: flex;
     justify-content: space-between;
+    width: 90vw;
+    margin: 20px auto 40px;
+    gap: 50px;
 }
 .blogs img{
     width: 100%;
