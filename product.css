@@ -14,11 +14,14 @@
   height: 80px;
   padding-top: 20px;
 }
-.logo {
-  font-size: 35px;
+.logo, .logo .primary {
+  font-size: 2rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: bolder;
   margin-left: 30px;
+}
+.primary{
+  color: #ed661f;
 }
 .btnSearch{
   padding: 10px 20px; 
@@ -187,13 +190,7 @@
   to {opacity: 1}
 }
 /* Product Categories*/
-.products-category {
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-  margin-left: 10%;
-  justify-content: space-around;
-}
+
 .product-subtext {
   text-align: center;
   font-size: 25px;
@@ -219,7 +216,13 @@
   text-decoration: solid;
 
 }
-
+.products-category1 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin-left: 10%;
+  justify-content: space-around;
+}
 .Topsales{
   width: 100%;
   margin-left: 0%;
